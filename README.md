@@ -29,7 +29,7 @@ Menjalankan Aplikasi
     Setelah login, Anda akan diarahkan ke halaman utama aplikasi.
     Dari sini, Anda dapat menjelajahi playlist dan video yang telah diunggah oleh pelatih, mengirim pesan untuk melakukan latihan praktik, dan menggunakan fitur lain yang disediakan oleh aplikasi.
 
-    **1. Pendaftaran**
+**1. Pendaftaran**
 
 Jika Anda ingin mendaftar sebagai pengguna, ikuti langkah-langkah berikut:
 
